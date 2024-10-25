@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","21931","Heroku_App_Add_Contact_TC003","","Fri Oct 25 21:43:03 SGT 2024","passed","Fri Oct 25 21:43:25 SGT 2024","","Heroku_App_Modify_Contact_TC003_TC004_TC005_006","",""
+"","8483","Verify user can successfully login the newly added account.","","Fri Oct 25 21:42:17 SGT 2024","passed","Fri Oct 25 21:42:25 SGT 2024","","Heroku_App_Login_User_TC002","",""
+"","9462","Heroku_App_Export_Contacts_on_File_TC006","","Fri Oct 25 21:45:19 SGT 2024","passed","Fri Oct 25 21:45:29 SGT 2024","","Heroku_App_Export_Contacts_on_File_TC006","",""
+"","10523","Heroku_App_Export_Contacts_on_File_TC006","","Thu Oct 24 18:41:10 SGT 2024","passed","Thu Oct 24 18:41:21 SGT 2024","","Heroku_App_Export_Contacts_on_File_TC006","",""
+"","6946","Verify user can delete a contact.","","Fri Oct 25 21:44:45 SGT 2024","passed","Fri Oct 25 21:44:51 SGT 2024","","Heroku_App_Delete_Contact_TC005","",""
+"","11902","Verify user can successfully edit a contact.","","Fri Oct 25 21:44:12 SGT 2024","passed","Fri Oct 25 21:44:23 SGT 2024","","Heroku_App_Edit_Contact_TC004","",""
+"","6341","Heroku_App_Login_User_TC002","","Fri Oct 25 21:42:57 SGT 2024","passed","Fri Oct 25 21:43:03 SGT 2024","","Heroku_App_Modify_Contact_TC003_TC004_TC005_006","",""

@@ -1,0 +1,22 @@
+[2024-10-24 18:41:10] - Test Started: Heroku_App_Export_Contacts_on_File_TC006
+[2024-10-24 18:41:16] - Name: Sakura Haruno
+[2024-10-24 18:41:16] - Birthdate: 1990-01-01
+[2024-10-24 18:41:16] - Email: sakuraharuno@test.com
+[2024-10-24 18:41:16] - Phone: 1122334455
+[2024-10-24 18:41:16] - Address: 9101 Haruno St Apt 789
+[2024-10-24 18:41:16] - City: Konoha Land of Fire 12345
+[2024-10-24 18:41:16] - Country: Water Country
+[2024-10-24 18:41:16] - 
+
+
+[2024-10-24 18:41:16] - Name: Sasuke Uchiha
+[2024-10-24 18:41:16] - Birthdate: 1990-01-01
+[2024-10-24 18:41:16] - Email: sasukeuchiha@test.com
+[2024-10-24 18:41:16] - Phone: 0987654321
+[2024-10-24 18:41:16] - Address: 5678 Uchiha St Apt 456
+[2024-10-24 18:41:16] - City: Konoha Land of Fire 12345
+[2024-10-24 18:41:16] - Country: Fire Country
+[2024-10-24 18:41:16] - 
+
+
+[2024-10-24 18:41:21] - Test Completed: Heroku_App_Export_Contacts_on_File_TC006
